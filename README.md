@@ -4,6 +4,9 @@ Juego Space Invaders realizado en el assembler de MIPS. Corrido con el simulador
 
 Autores: Gabriel Noya, Domingo Luis.
 
+
+
+
 # Caracteristicas
 
 Este juego fue realizado en una resolucion de 128x128 pixeles e incluye las siguientes caracteristicas:
