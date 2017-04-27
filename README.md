@@ -22,7 +22,7 @@ Este juego fue realizado en una resolucion de 128x128 pixeles e incluye las sigu
 
 # Instrucciones
 
-- Abrir MARS4_5.jar dentro de la carpeta con los archivos.
+- Abrir MARS4_5.jar dentro de la carpeta con los archivos .rgba (Carpeta Space Invaders de este repositorio).
 - Desde el MARS, abrir el archivo "Space Invaders MIPS.asm" y presionar el boton de Assemble (Dos herramientas en la parte superior).
 - Dentro del MARS, ir a Tools -> Bitmap Display, y colocar los settings de la manera mostrada en la foto "Settings del display.png" que se encuentra en este repositorio. Recordar presionar "Connect to MIPS".
 - Ir a Tools -> Keyboard and Display MMIO Simulator. Dar click a "Connect to MIPS".
