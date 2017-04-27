@@ -4,7 +4,8 @@ Juego Space Invaders realizado en el assembler de MIPS. Corrido con el simulador
 
 Autores: Gabriel Noya, Domingo Luis.
 
-
+Fecha de culminacion del juego: 12/02/2017
+Fecha de carga a Github: 27/04/2017
 
 
 # Caracteristicas
