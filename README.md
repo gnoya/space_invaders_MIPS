@@ -18,11 +18,11 @@ Este juego fue realizado en una resolucion de 128x128 pixeles e incluye las sigu
 
 # Instrucciones
 
-- 1. Abrir MARS4_5.jar dentro de la carpeta con los archivos.
-- 2. Desde el MARS, abrir el archivo "Space Invaders MIPS.asm" y presionar el boton de Assemble (Dos herramientas en la parte superior).
-- 3. Dentro del MARS, ir a Tools -> Bitmap Display, y colocar los settings de la manera mostrada en la foto "Settings del display.png" que se encuentra en este repositorio. Recordar presionar "Connect to MIPS".
-- 4. Ir a Tools -> Keyboard and Display MMIO Simulator. Dar click a "Connect to MIPS".
-- 5. Darle al boton Run the program, es el icono de play en la parte superior de la ventana. En este momento se empezara a reproducir el juego, inmediatamente cambiar a la ventana del Keyboard and Display MMIO Simulator, dar click en la ventana de texto inferior, y empezar a jugar.
+- Abrir MARS4_5.jar dentro de la carpeta con los archivos.
+- Desde el MARS, abrir el archivo "Space Invaders MIPS.asm" y presionar el boton de Assemble (Dos herramientas en la parte superior).
+- Dentro del MARS, ir a Tools -> Bitmap Display, y colocar los settings de la manera mostrada en la foto "Settings del display.png" que se encuentra en este repositorio. Recordar presionar "Connect to MIPS".
+- Ir a Tools -> Keyboard and Display MMIO Simulator. Dar click a "Connect to MIPS".
+- Darle al boton Run the program, es el icono de play en la parte superior de la ventana. En este momento se empezara a reproducir el juego, inmediatamente cambiar a la ventana del Keyboard and Display MMIO Simulator, dar click en la ventana de texto inferior, y empezar a jugar.
 
 Las teclas de juego son las siguientes:
 
